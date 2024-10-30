@@ -11,7 +11,45 @@
       justify-content: flex-start; /* Center vertically */
       text-align: left; /* Center text */">
             <h2>Hi, I am Robin 👋!</h2>
-            <p>I'm a student at the Eberhard Karls University of Tübingen.</p>
+            <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+            <div class="tag" style="display: inline-block;
+                background-color: none;
+                border: 1px solid #dddddd;
+                border-radius: 100px;
+                padding: 2px 10px;
+                margin: 2px;
+                font-size: 0.7em;">Bioinformatics</div>
+              <div class="tag" style="display: inline-block;
+                background-color: none;
+                border: 1px solid #dddddd;
+                border-radius: 100px;
+                padding: 2px 10px;
+                margin: 2px;
+                font-size: 0.7em;">Python</div>
+              <div class="tag" style="display: inline-block;
+                background-color: none;
+                border: 1px solid #dddddd;
+                border-radius: 100px;
+                padding: 2px 10px;
+                margin: 2px;
+                font-size: 0.7em;">Type Script</div>
+              <div class="tag" style="display: inline-block;
+                background-color: none;
+                border: 1px solid #dddddd;
+                border-radius: 100px;
+                padding: 2px 10px;
+                margin: 2px;
+                font-size: 0.7em;">Machine Learning</div>
+              <div class="tag" style="display: inline-block;
+                background-color: none;
+                border: 1px solid #dddddd;
+                border-radius: 100px;
+                padding: 2px 10px;
+                margin: 2px;
+                font-size: 0.7em;">Data Analysis</div>
+          </div>
+            <div style="height: 10px;"></div>
+            <!-- <p>I'm a student at the Eberhard Karls University of Tübingen.</p> -->
             <h3>About Me</h3>
             <ul>
                 <li>🎓 Studying Bachelor Bioinformatics</li>
@@ -27,7 +65,7 @@
                 <li><strong>Tools</strong>: Git, VS Code, Jupyter Notebook, Anaconda, RStudio</li>
             </ul>
             </br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Timo1024&locale=en&hide_title=true&card_width=430&langs_count=8&theme=dracula&hide_border=false" height="300" alt="languages graph" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Timo1024&locale=en&hide_title=true&card_width=400&langs_count=8&theme=dracula&hide_border=false&bg_color=00000000" height="150" alt="languages graph" style="width: 100%; height: auto;"/>
             </br>
             <!-- <div style="text-align: left; margin-top: 20px;">
                 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 30rem; flex-wrap: wrap;">
@@ -52,7 +90,7 @@
                 <li><a href="https://github.com/yourusername/project2">Project 2</a>: Brief description of what this project does.</li>
             </ul>
             </br>
-            <img src="https://github-readme-stats.vercel.app/api?username=Timo1024&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&card_width=320&hide_border=false" height="150" alt="stats graph" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Timo1024&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&card_width=320&hide_border=false&bg_color=00000000&card_width=400" height="150" alt="stats graph" style="width: 100%; height: auto;"/>
             </br>
         </div>
     </div>
