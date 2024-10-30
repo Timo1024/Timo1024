@@ -1,7 +1,7 @@
-<div align="center">
+<!-- <div align="center">
     <br clear="both">
     <img src="https://github.com/Timo1024/Timo1024/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-gif" />
-</div>
+</div> -->
 <div class="container" style="display: flex;
           justify-content: center;
           align-items: flex-start;
