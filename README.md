@@ -29,7 +29,7 @@
             </br>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Timo1024&locale=en&hide_title=true&card_width=430&langs_count=8&theme=dracula&hide_border=false" height="300" alt="languages graph" />
             </br>
-            <div style="text-align: left; margin-top: 20px;">
+            <!-- <div style="text-align: left; margin-top: 20px;">
                 <div style="display: flex; justify-content: space-between; align-items: center; max-width: 30rem; flex-wrap: wrap;">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
                     <img width="12" />
@@ -45,7 +45,7 @@
                     <img width="12" />
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
                 </div>
-            </div>
+            </div> -->
             <h3>Projects</h3>
             <ul>
                 <li><a href="https://github.com/yourusername/project1">Project 1</a>: Brief description of what this project does.</li>
