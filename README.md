@@ -1,28 +1,39 @@
-<style>
-  .container {
+<!-- <style> -->
+  <!-- /* .container {
       display: flex;
       justify-content: space-between;
       align-items: flex-start;
       max-width: 1000px;
       margin: 0 auto;
       padding: 20px;
-  }
-  .column {
+  } */
+  /* .column {
       flex: 1;
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+      justify-content: left;
+      text-align: left;
+  } */
+  /* .column img {
+      max-width: 100%;
+  } */ -->
+<!-- </style> -->
+
+<div class="container" style="display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 20px;">
+        <div class="column" style="flex: 1;
       margin: 10px;
       display: flex;
       flex-direction: column;
       align-items: left; /* Center horizontally */
       justify-content: left; /* Center vertically */
-      text-align: left; /* Center text */
-  }
-  .column img {
-      max-width: 100%;
-  }
-</style>
-
-<div class="container">
-        <div class="column">
+      text-align: left; /* Center text */">
             <h2>Hi 👋!</h2>
             <p>My name is Robin and I'm a student at the Eberhard Karls University of Tübingen.</p>
             <h3>About Me</h3>
@@ -50,7 +61,13 @@
                 <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
             </ul>
         </div>
-        <div class="column">
+        <div class="column" style="flex: 1;
+      margin: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: left; /* Center horizontally */
+      justify-content: left; /* Center vertically */
+      text-align: left; /* Center text */">
             <div style="text-align: left; margin-top: 20px; ">
                 <img src="https://github-readme-stats.vercel.app/api?username=Timo1024&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&card_width=320&hide_border=false" height="150" alt="stats graph" />
                 <br>
