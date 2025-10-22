@@ -56,9 +56,8 @@
         <!-- <p>I'm a student at the Eberhard Karls University of Tübingen.</p> -->
         <h3>About Me</h3>
         <ul>
-            <li>🎓 Studying Bachelor Bioinformatics</li>
+            <li>🎓 Studying Master Bioinformatics</li>
             <li>💻 Passionate about data analysis and web development</li>
-            <li>🌱 Currently learning C++</li>
             <li>📫 How to reach me: <a href="mailto:klapperschlange2820@gmail.com">klapperschlange2820@gmail.com</a></li>
             <!-- <li>⚡ Fun fact: I love playing the flute and collecting stamps</li> -->
         </ul>
